@@ -5,8 +5,8 @@ Veja o [Guia de Contribuição](https://github.com/FieldOps-Project/docs/blob/ma
 
 
 ## Membros do grupo
-Felipe Marques
-Gabriel Ribeiro
-Pedro Dias
-André Fernandes
-João Victor Souza
+- Felipe Marques
+- Gabriel Ribeiro
+- Pedro Dias
+- André Fernandes
+- João Victor Souza
