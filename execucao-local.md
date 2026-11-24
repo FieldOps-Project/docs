@@ -335,7 +335,7 @@ O Docker publica a porta `8080` em todas as interfaces da máquina, então a API
 
 ## O que ainda não funciona integrado
 
-O guia sobe os três componentes, mas parte do painel ainda não fala com a API. Estes pontos foram verificados no código e afetam a demonstração; o roteiro da demonstração ([docs#5](https://github.com/FieldOps-Project/docs/issues/5)) indica a contingência de cada um.
+O guia sobe os três componentes, mas parte do painel ainda não fala com a API. Estes pontos foram verificados no código e afetam a demonstração; o [roteiro da demonstração](roteiro-demonstracao.md) indica a contingência de cada um.
 
 | Ponto | Situação verificada | Pendência |
 | --- | --- | --- |
